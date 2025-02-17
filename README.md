@@ -20,10 +20,7 @@ Run the following commands in two separate terminals to create a blissful develo
 auto-refreshes when files change on your hard drive.
 
 ```
-
-
 ./gradlew -x webpack
-
 npm start
 ```
 
@@ -52,20 +49,14 @@ The service worker initialization code is commented out by default. To enable it
 To build the final jar and optimize the Plates application for production, run:
 
 ```
-
-
 ./gradlew -Pprod clean bootJar
-
 ```
 
 This will concatenate and minify the client CSS and JavaScript files. It will also modify `index.html` so it references these new files.
 To ensure everything worked, run:
 
 ```
-
-
 java -jar build/libs/*.jar
-
 ```
 
 Then navigate to [http://localhost:8080](http://localhost:8080) in your browser.
@@ -75,10 +66,7 @@ Then navigate to [http://localhost:8080](http://localhost:8080) in your browser.
 To package your application as a war in order to deploy it to an application server, run:
 
 ```
-
-
 ./gradlew -Pprod -Pwar clean bootWar
-
 ```
 
 ## Testing
