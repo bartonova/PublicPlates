@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Velkommen, Java Hipster!",
+    "subtitle": "Dette er din startside",
+    "logged": {
+      "message": "Du er logget ind som bruger \"{{username}}\"."
+    },
+    "question": "Hvis du har spørgsmål om freedata:",
+    "link": {
+      "homepage": "freedata homepage",
+      "stackoverflow": "freedata på Stack Overflow",
+      "bugtracker": "freedata bug tracker",
+      "chat": "freedata public chat room",
+      "follow": "Kontakt @freedata på Twitter"
+    },
+    "like": "Hvis du kan lide freedata, så husk at give os en stjerne på",
+    "github": "GitHub"
+  }
+}

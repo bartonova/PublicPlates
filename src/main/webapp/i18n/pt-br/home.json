@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Bem vindo, Java Hipster!",
+    "subtitle": "Esta é a página principal",
+    "logged": {
+      "message": "Você está logado como \"{{username}}\"."
+    },
+    "question": "Em caso de dúvida sobre o freedata:",
+    "link": {
+      "homepage": "Página principal freedata",
+      "stackoverflow": "freedata no Stack Overflow",
+      "bugtracker": "freedata bug tracker",
+      "chat": "Sala de bate-papo pública freedata",
+      "follow": "siga @freedata no Twitter"
+    },
+    "like": "Se você gosta do freedata, não se esqueça de avaliar no",
+    "github": "GitHub"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Benvingut, Java Hipster!",
+    "subtitle": "Aquesta és la pàgina principal",
+    "logged": {
+      "message": "S'ha connectat amb l'usuari \"{{username}}\"."
+    },
+    "question": "Si tens qualsevol pregunta sobre freedata:",
+    "link": {
+      "homepage": "Pàgina preincipal de freedata",
+      "stackoverflow": "freedata a Stack Overflow",
+      "bugtracker": "freedata seguiment d'incidencies",
+      "chat": "freedata public chat room",
+      "follow": "Contacte @freedata a Twitter"
+    },
+    "like": "Si li agrada freedata, no oblidi donar-nos una estrella",
+    "github": "GitHub"
+  }
+}

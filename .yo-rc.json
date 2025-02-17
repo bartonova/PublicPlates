@@ -1,0 +1,85 @@
+{
+  "generator-freedata": {
+    "promptValues": {
+      "packageName": "com.freedata.plates",
+      "nativeLanguage": "en"
+    },
+    "freedataVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "Plates",
+    "packageName": "com.freedata.plates",
+    "packageFolder": "com/freedata/plates",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTdhMzhlMDk2ZDQ4NGZjYTEzMTIzMTg0OWVhZTVhNjNkYjZmNDcxNmE3NDZjYmFiYzA4YzI4YTQ2NDJkZDNkMDMyZDgwOTIzY2YzNjc0MzNkMDc5YmMyMTY3NmQ3NjBlYjIxMDE0NWMwZTJlYjliYWY0ZWM1NjY5NDc1MjE5YjI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "lumen",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1608904299775,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-freedata-ngx-charts",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-freedata-imageblobcache",
+        "version": "1.0.2"
+      },
+      {
+        "name": "generator-freedata-imageblobindexation",
+        "version": "2.0.3"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hy",
+      "by",
+      "bg",
+      "ca",
+      "cs",
+      "da",
+      "nl",
+      "et",
+      "fa",
+      "fi",
+      "fr",
+      "gl",
+      "de",
+      "el",
+      "hu",
+      "it",
+      "pl",
+      "pt-br",
+      "pt-pt",
+      "ro",
+      "ru",
+      "sk",
+      "sr",
+      "es",
+      "sv",
+      "ua",
+      "vi"
+    ],
+    "blueprints": []
+  }
+}

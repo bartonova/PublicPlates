@@ -1,0 +1,108 @@
+
+entity Region {
+	regionName String
+}
+
+entity Country {
+	countryName String
+}
+
+// an ignored comment
+/** not an ignored comment */
+entity Location {
+	streetAddress String,
+	postalCode String,
+	city String,
+	stateProvince String
+}
+
+entity Department {
+	departmentName String required
+}
+
+/**
+ * Task entity.
+ * @author The freedata team.
+ */
+entity Note {
+	title String,
+	description String
+}
+
+/**
+ * The Employee entity.
+ */
+entity Person {
+	/**
+	* The firstname attribute.
+	*/
+	firstName String,
+	lastName String,
+	email String,
+	phoneNumber String,
+	hireDate Instant,
+	salary Long,
+	commissionPct Long
+}
+
+entity Plate {
+	plateTitle String
+}
+
+entity PlateHistory {
+	startDate Instant,
+	endDate Instant
+}
+
+relationship OneToOne {
+	Country{region} to Region
+}
+
+relationship OneToOne {
+	Location{country} to Country
+}
+
+relationship OneToOne {
+	Department{location} to Location
+}
+
+relationship ManyToMany {
+	Plate{note(title)} to Note{plate}
+}
+
+// defining multiple OneToMany relationships with comments
+relationship OneToMany {
+	Person to Plate{person},
+	/**
+	* A relationship
+	*/
+	Department to
+	/**
+	* Another side of the same relationship
+	*/
+	Person{department}
+}
+
+relationship ManyToOne {
+	Person{manager} to Person
+}
+
+// defining multiple oneToOne relationships
+relationship OneToOne {
+	PlateHistory{plate} to Plate,
+	PlateHistory{department} to Department,
+	PlateHistory{person} to Person
+}
+
+// Set pagination options
+paginate PlateHistory, Person with infinite-scroll
+paginate Plate with pagination
+
+// Use Data Transfer Objects (DTO)
+// dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl except Person, Plate
+
+// Set an angular suffix
+// angularSuffix * with mySuffix

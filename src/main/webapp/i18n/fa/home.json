@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "خوش آمدید, Java Hipster!",
+    "subtitle": "این صفحه اصلی شماست",
+    "logged": {
+      "message": "شما وارد شدید با کاربر \"{{username}}\"."
+    },
+    "question": "اگر سوالی دارید؟ در مورد freedata:",
+    "link": {
+      "homepage": "freedata صفحه اصلی",
+      "stackoverflow": "freedata در Stack Overflow",
+      "bugtracker": "freedata bug tracker",
+      "chat": "freedata public chat room",
+      "follow": "دنبال کنید @freedata در Twitter"
+    },
+    "like": "اگر freedata را دوست دارید، فراموش نکنید بهش ستاره بدید در",
+    "github": "GitHub"
+  }
+}

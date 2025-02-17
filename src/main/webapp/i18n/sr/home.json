@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Dobrodošli, Java Hipsteru!",
+    "subtitle": "Ovo je Vaša početna stranica",
+    "logged": {
+      "message": "Prijavljeni ste kao korisnik \"{{username}}\"."
+    },
+    "question": "Ako imate bilo kakva pitanja o freedata-u:",
+    "link": {
+      "homepage": "freedata početna stranica",
+      "stackoverflow": "freedata na Stack Overflow",
+      "bugtracker": "freedata tragač za greškama",
+      "chat": "freedata javni čet",
+      "follow": "pratite @freedata na Twitter-u"
+    },
+    "like": "Ako Vam se dopada freedata, ne zaboravite da nam date zvezdicu na",
+    "github": "GitHub-u"
+  }
+}

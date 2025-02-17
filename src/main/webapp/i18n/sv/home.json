@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Välkommen Java Hipster!",
+    "subtitle": "Det här är din hemsida",
+    "logged": {
+      "message": "Du är inloggad som \"{{username}}\"."
+    },
+    "question": "Om du har några frågor om freedata:",
+    "link": {
+      "homepage": "freedatas hemsida",
+      "stackoverflow": "freedata på Stack Overflow",
+      "bugtracker": "freedata bughanterare",
+      "chat": "freedata public chat room",
+      "follow": "kontakta @freedata på Twitter"
+    },
+    "like": "Om du gillar freedata, glöm inte att ge oss en stjärna på",
+    "github": "GitHub"
+  }
+}

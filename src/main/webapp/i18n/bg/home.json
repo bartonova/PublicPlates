@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Добре дошли, Java Hipster!",
+    "subtitle": "Това е вашата начална страница",
+    "logged": {
+      "message": "Влезли сте като потребител \"{{username}}\"."
+    },
+    "question": "Ако имате някакви въпроси относно freedata:",
+    "link": {
+      "homepage": "freedata начална страница",
+      "stackoverflow": "freedata в Stack Overflow",
+      "bugtracker": "freedata проследяване на грешки",
+      "chat": "freedata общодостъпна чат стая",
+      "follow": "последвайте @freedata в Twitter"
+    },
+    "like": "Ако харесвате freedata, не забравяйте да ни дадете звезда в",
+    "github": "GitHub"
+  }
+}

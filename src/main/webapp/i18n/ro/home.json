@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Bun venit, Java Hipster!",
+    "subtitle": "Aceasta este pagina ta de start",
+    "logged": {
+      "message": "Ești autentificat cu numele de utilizator \"{{username}}\"."
+    },
+    "question": "Dacă ai orice întrebări în legatură cu freedata:",
+    "link": {
+      "homepage": "Pagina freedata",
+      "stackoverflow": "freedata pe Stack Overflow",
+      "bugtracker": "freedata bug tracker",
+      "chat": "Camera de chat publică pentru freedata",
+      "follow": "Contactează @freedata pe Twitter"
+    },
+    "like": "Dacă iți place freedata nu uita să ne dai o stea pe",
+    "github": "GitHub"
+  }
+}
