@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Kreiraj novi Plate History",
+        "createOrEditLabel": "Kreirajte ili izmenite Plate History",
+        "search": "Potražite Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Kreiran je novi Plate History pod nazivom {{ param }}",
+      "updated": "Plate History pod nazivom {{ param }} je ažuriran",
+      "deleted": "Plate History pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Plate History pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

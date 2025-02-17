@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Crear nuevo Plate",
+        "createOrEditLabel": "Crear o editar Plate",
+        "search": "Buscar Plate",
+        "notFound": "Ningún Plates encontrado"
+      },
+      "created": "Un nuevo Plate ha sido creado con el identificador {{ param }}",
+      "updated": "Un Plate ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Plate ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

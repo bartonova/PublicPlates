@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Luo Department",
+        "createOrEditLabel": "Luo tai muokkaa Department",
+        "search": "Etsi Department",
+        "notFound": "Department ei löytynyt"
+      },
+      "created": "Uusi Department on luotu, id: {{ param }}",
+      "updated": "Department on päivitetty, id: {{ param }}",
+      "deleted": "Department on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

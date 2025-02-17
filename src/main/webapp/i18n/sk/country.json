@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Pridať Country",
+        "createOrEditLabel": "Pridať alebo upraviť Country",
+        "search": "Vyhľadať Country",
+        "notFound": "No Countries found"
+      },
+      "created": "Bol vytvorený potomok entity Country s identifikátorom {{ param }}",
+      "updated": "Potomok entity Country s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Country s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

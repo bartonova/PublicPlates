@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Creeare o nouă entitate Country",
+        "createOrEditLabel": "Creeare sau editare Country",
+        "search": "Căutare după Country",
+        "notFound": "No Countries found"
+      },
+      "created": "A fost creată o nouă entitate Country cu identificatorul {{ param }}",
+      "updated": "Country cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Country cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

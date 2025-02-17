@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Plate erstellen",
+        "createOrEditLabel": "Plate erstellen oder bearbeiten",
+        "search": "Suche nach Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Plate erstellt mit ID {{ param }}",
+      "updated": "Plate aktualisiert mit ID {{ param }}",
+      "deleted": "Plate gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Plate {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

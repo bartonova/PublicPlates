@@ -1,0 +1,23 @@
+{
+  "platesApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "createLabel": "Ստեղծել նոր Region",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Region",
+        "search": "Գտնել Region",
+        "notFound": "No Regions found"
+      },
+      "created": "Նոր Region ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Region թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Region հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

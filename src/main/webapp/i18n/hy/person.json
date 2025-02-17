@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Ստեղծել նոր Person",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Person",
+        "search": "Գտնել Person",
+        "notFound": "No People found"
+      },
+      "created": "Նոր Person ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Person թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Person հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Person {{ id }}?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

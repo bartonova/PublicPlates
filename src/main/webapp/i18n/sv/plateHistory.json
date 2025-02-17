@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Skapa en ny Plate History",
+        "createOrEditLabel": "Skapa eller ändra en Plate History",
+        "search": "Sök efter Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "En ny Plate History är skapad med id {{ param }}",
+      "updated": "En Plate History är uppdaterad med id  {{ param }}",
+      "deleted": "En Plate History är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

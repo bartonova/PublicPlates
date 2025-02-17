@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Location",
+        "createLabel": "Dodaj Location",
+        "createOrEditLabel": "Dodaj lub edytuj: Location",
+        "search": "Szukaj Location",
+        "notFound": "No Locations found"
+      },
+      "created": "Utworzono nowy obiekt typu Location z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Location z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Location z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}

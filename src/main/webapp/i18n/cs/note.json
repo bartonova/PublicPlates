@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Vytvořit Note",
+        "createOrEditLabel": "Vytvořit nebo upravit Note",
+        "search": "Vyhledat Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Byl vytvořen potomek entity Note s identifikátorem {{ param }}",
+      "updated": "Potomek entity Note s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Note s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

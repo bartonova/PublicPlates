@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Pridať Plate History",
+        "createOrEditLabel": "Pridať alebo upraviť Plate History",
+        "search": "Vyhľadať Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Bol vytvorený potomok entity Plate History s identifikátorom {{ param }}",
+      "updated": "Potomok entity Plate History s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Plate History s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

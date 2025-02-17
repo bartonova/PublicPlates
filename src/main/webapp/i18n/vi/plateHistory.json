@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Thêm mới một Plate History",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Plate History",
+        "search": "Tìm Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Một Plate History mới được tạo với định danh {{ param }}",
+      "updated": "Một Plate History cập nhật với định danh {{ param }}",
+      "deleted": "Một Plate History đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Maak een nieuwe Plate",
+        "createOrEditLabel": "Maak of wijzig een Plate",
+        "search": "Search for Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "A new Plate is created with identifier {{ param }}",
+      "updated": "A Plate is updated with identifier {{ param }}",
+      "deleted": "A Plate is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Plate {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

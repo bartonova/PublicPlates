@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Lisa uus Country",
+        "createOrEditLabel": "Lisa või muuda Country",
+        "search": "Otsi Country",
+        "notFound": "No Countries found"
+      },
+      "created": "Uus Country on loodud identifikaatoriga {{ param }}",
+      "updated": "Country identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Country identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

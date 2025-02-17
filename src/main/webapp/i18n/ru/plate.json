@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Создать новый Plate",
+        "createOrEditLabel": "Создать или отредактировать Plate",
+        "search": "Найти Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Новый Plate создан с идентификатором {{ param }}",
+      "updated": "Plate обновлен с идентификатором {{ param }}",
+      "deleted": "Plate удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

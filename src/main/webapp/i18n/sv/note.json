@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Skapa en ny Note",
+        "createOrEditLabel": "Skapa eller ändra en Note",
+        "search": "Sök efter Note",
+        "notFound": "No Notes found"
+      },
+      "created": "En ny Note är skapad med id {{ param }}",
+      "updated": "En Note är uppdaterad med id  {{ param }}",
+      "deleted": "En Note är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "platesApp": {
+    "region": {
+      "home": {
+        "title": "Region",
+        "createLabel": "Dodaj Region",
+        "createOrEditLabel": "Dodaj lub edytuj: Region",
+        "search": "Szukaj Region",
+        "notFound": "No Regions found"
+      },
+      "created": "Utworzono nowy obiekt typu Region z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Region z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Region z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

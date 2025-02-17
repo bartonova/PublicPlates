@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Egy új Plate létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Platet",
+        "search": "Plate keresése",
+        "notFound": "No Plates found"
+      },
+      "created": "Egy új Plate lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Plate módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Plate törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Platet {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

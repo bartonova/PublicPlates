@@ -1,0 +1,23 @@
+{
+  "platesApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "createLabel": "Lisa uus Region",
+        "createOrEditLabel": "Lisa või muuda Region",
+        "search": "Otsi Region",
+        "notFound": "No Regions found"
+      },
+      "created": "Uus Region on loodud identifikaatoriga {{ param }}",
+      "updated": "Region identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Region identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

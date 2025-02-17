@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Kreiraj novi Person",
+        "createOrEditLabel": "Kreirajte ili izmenite Person",
+        "search": "Potražite Person",
+        "notFound": "No People found"
+      },
+      "created": "Kreiran je novi Person pod nazivom {{ param }}",
+      "updated": "Person pod nazivom {{ param }} je ažuriran",
+      "deleted": "Person pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Person pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

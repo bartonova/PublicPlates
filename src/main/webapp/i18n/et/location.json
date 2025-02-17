@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "createLabel": "Lisa uus Location",
+        "createOrEditLabel": "Lisa või muuda Location",
+        "search": "Otsi Location",
+        "notFound": "No Locations found"
+      },
+      "created": "Uus Location on loodud identifikaatoriga {{ param }}",
+      "updated": "Location identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Location identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}

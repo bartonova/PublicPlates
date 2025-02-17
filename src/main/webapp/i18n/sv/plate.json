@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Skapa en ny Plate",
+        "createOrEditLabel": "Skapa eller ändra en Plate",
+        "search": "Sök efter Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "En ny Plate är skapad med id {{ param }}",
+      "updated": "En Plate är uppdaterad med id  {{ param }}",
+      "deleted": "En Plate är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

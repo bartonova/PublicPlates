@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Person erstellen",
+        "createOrEditLabel": "Person erstellen oder bearbeiten",
+        "search": "Suche nach Person",
+        "notFound": "No People found"
+      },
+      "created": "Person erstellt mit ID {{ param }}",
+      "updated": "Person aktualisiert mit ID {{ param }}",
+      "deleted": "Person gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Person {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

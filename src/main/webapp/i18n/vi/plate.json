@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Thêm mới một Plate",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Plate",
+        "search": "Tìm Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Một Plate mới được tạo với định danh {{ param }}",
+      "updated": "Một Plate cập nhật với định danh {{ param }}",
+      "deleted": "Một Plate đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

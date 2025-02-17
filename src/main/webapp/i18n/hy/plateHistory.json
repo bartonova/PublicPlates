@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Ստեղծել նոր Plate History",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Plate History",
+        "search": "Գտնել Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Նոր Plate History ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Plate History թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Plate History հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

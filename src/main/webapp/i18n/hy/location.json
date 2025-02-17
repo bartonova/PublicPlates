@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "createLabel": "Ստեղծել նոր Location",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Location",
+        "search": "Գտնել Location",
+        "notFound": "No Locations found"
+      },
+      "created": "Նոր Location ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Location թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Location հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}

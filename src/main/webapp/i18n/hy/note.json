@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Ստեղծել նոր Note",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Note",
+        "search": "Գտնել Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Նոր Note ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Note թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Note հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

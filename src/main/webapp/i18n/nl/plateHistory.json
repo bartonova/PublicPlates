@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Maak een nieuwe Plate History",
+        "createOrEditLabel": "Maak of wijzig een Plate History",
+        "search": "Search for Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "A new Plate History is created with identifier {{ param }}",
+      "updated": "A Plate History is updated with identifier {{ param }}",
+      "deleted": "A Plate History is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Plate History {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

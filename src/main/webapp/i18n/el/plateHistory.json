@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Δημιουργήστε ένα νέο Plate History",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Plate History",
+        "search": "Αναζήτηση για Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Ένα νέο Plate History έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Plate History έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Plate History έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Plate History {{ id }};"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

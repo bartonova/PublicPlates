@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "PlateHistories",
+        "createLabel": "Egy új Plate History létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Plate Historyt",
+        "search": "Plate History keresése",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Egy új Plate History lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Plate History módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Plate History törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Plate Historyt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

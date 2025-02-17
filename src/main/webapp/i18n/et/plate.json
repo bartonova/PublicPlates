@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Lisa uus Plate",
+        "createOrEditLabel": "Lisa või muuda Plate",
+        "search": "Otsi Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Uus Plate on loodud identifikaatoriga {{ param }}",
+      "updated": "Plate identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Plate identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

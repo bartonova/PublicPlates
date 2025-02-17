@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Kreiraj novi Department",
+        "createOrEditLabel": "Kreirajte ili izmenite Department",
+        "search": "Potražite Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Kreiran je novi Department pod nazivom {{ param }}",
+      "updated": "Department pod nazivom {{ param }} je ažuriran",
+      "deleted": "Department pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Department pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

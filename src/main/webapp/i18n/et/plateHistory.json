@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Lisa uus Plate History",
+        "createOrEditLabel": "Lisa või muuda Plate History",
+        "search": "Otsi Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Uus Plate History on loodud identifikaatoriga {{ param }}",
+      "updated": "Plate History identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Plate History identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

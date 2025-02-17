@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Creeare o nouă entitate Department",
+        "createOrEditLabel": "Creeare sau editare Department",
+        "search": "Căutare după Department",
+        "notFound": "No Departments found"
+      },
+      "created": "A fost creată o nouă entitate Department cu identificatorul {{ param }}",
+      "updated": "Department cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Department cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

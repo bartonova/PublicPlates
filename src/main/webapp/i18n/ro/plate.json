@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Creeare o nouă entitate Plate",
+        "createOrEditLabel": "Creeare sau editare Plate",
+        "search": "Căutare după Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "A fost creată o nouă entitate Plate cu identificatorul {{ param }}",
+      "updated": "Plate cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Plate cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

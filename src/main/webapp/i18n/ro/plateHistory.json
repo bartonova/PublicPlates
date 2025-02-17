@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Creeare o nouă entitate Plate History",
+        "createOrEditLabel": "Creeare sau editare Plate History",
+        "search": "Căutare după Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "A fost creată o nouă entitate Plate History cu identificatorul {{ param }}",
+      "updated": "Plate History cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Plate History cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

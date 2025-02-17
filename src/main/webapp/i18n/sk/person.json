@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Pridať Person",
+        "createOrEditLabel": "Pridať alebo upraviť Person",
+        "search": "Vyhľadať Person",
+        "notFound": "No People found"
+      },
+      "created": "Bol vytvorený potomok entity Person s identifikátorom {{ param }}",
+      "updated": "Potomok entity Person s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Person s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Person {{ id }}?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Egy új Note létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Notet",
+        "search": "Note keresése",
+        "notFound": "No Notes found"
+      },
+      "created": "Egy új Note lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Note módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Note törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Notet {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Lisa uus Note",
+        "createOrEditLabel": "Lisa või muuda Note",
+        "search": "Otsi Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Uus Note on loodud identifikaatoriga {{ param }}",
+      "updated": "Note identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Note identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

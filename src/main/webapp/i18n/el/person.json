@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Δημιουργήστε ένα νέο Person",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Person",
+        "search": "Αναζήτηση για Person",
+        "notFound": "No People found"
+      },
+      "created": "Ένα νέο Person έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Person έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Person έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Person {{ id }};"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Lisa uus Department",
+        "createOrEditLabel": "Lisa või muuda Department",
+        "search": "Otsi Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Uus Department on loodud identifikaatoriga {{ param }}",
+      "updated": "Department identifikaatoriga {{ param }} on muudetud",
+      "deleted": "Department identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

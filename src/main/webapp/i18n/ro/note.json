@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Creeare o nouă entitate Note",
+        "createOrEditLabel": "Creeare sau editare Note",
+        "search": "Căutare după Note",
+        "notFound": "No Notes found"
+      },
+      "created": "A fost creată o nouă entitate Note cu identificatorul {{ param }}",
+      "updated": "Note cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Note cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

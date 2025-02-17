@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Luo Country",
+        "createOrEditLabel": "Luo tai muokkaa Country",
+        "search": "Etsi Country",
+        "notFound": "Country ei löytynyt"
+      },
+      "created": "Uusi Country on luotu, id: {{ param }}",
+      "updated": "Country on päivitetty, id: {{ param }}",
+      "deleted": "Country on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

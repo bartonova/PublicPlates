@@ -1,0 +1,23 @@
+{
+  "platesApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "createLabel": "Luo Region",
+        "createOrEditLabel": "Luo tai muokkaa Region",
+        "search": "Etsi Region",
+        "notFound": "Region ei löytynyt"
+      },
+      "created": "Uusi Region on luotu, id: {{ param }}",
+      "updated": "Region on päivitetty, id: {{ param }}",
+      "deleted": "Region on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

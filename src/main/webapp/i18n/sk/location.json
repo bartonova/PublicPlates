@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "createLabel": "Pridať Location",
+        "createOrEditLabel": "Pridať alebo upraviť Location",
+        "search": "Vyhľadať Location",
+        "notFound": "No Locations found"
+      },
+      "created": "Bol vytvorený potomok entity Location s identifikátorom {{ param }}",
+      "updated": "Potomok entity Location s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Location s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}

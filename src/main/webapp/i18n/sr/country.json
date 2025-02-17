@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Kreiraj novi Country",
+        "createOrEditLabel": "Kreirajte ili izmenite Country",
+        "search": "Potražite Country",
+        "notFound": "No Countries found"
+      },
+      "created": "Kreiran je novi Country pod nazivom {{ param }}",
+      "updated": "Country pod nazivom {{ param }} je ažuriran",
+      "deleted": "Country pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Country pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

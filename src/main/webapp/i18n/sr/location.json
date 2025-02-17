@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "createLabel": "Kreiraj novi Location",
+        "createOrEditLabel": "Kreirajte ili izmenite Location",
+        "search": "Potražite Location",
+        "notFound": "No Locations found"
+      },
+      "created": "Kreiran je novi Location pod nazivom {{ param }}",
+      "updated": "Location pod nazivom {{ param }} je ažuriran",
+      "deleted": "Location pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Location pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}

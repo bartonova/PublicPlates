@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Создать новый Note",
+        "createOrEditLabel": "Создать или отредактировать Note",
+        "search": "Найти Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Новый Note создан с идентификатором {{ param }}",
+      "updated": "Note обновлен с идентификатором {{ param }}",
+      "deleted": "Note удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

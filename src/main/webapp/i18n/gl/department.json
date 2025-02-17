@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Crear novo Department",
+        "createOrEditLabel": "Crear ou editar Department",
+        "search": "Search for Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Un novo Department foi creado co identificador {{ param }}",
+      "updated": "Un Department foi actualizado co identificador {{ param }}",
+      "deleted": "Un Department foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

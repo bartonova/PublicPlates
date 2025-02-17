@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Pridať Department",
+        "createOrEditLabel": "Pridať alebo upraviť Department",
+        "search": "Vyhľadať Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Bol vytvorený potomok entity Department s identifikátorom {{ param }}",
+      "updated": "Potomok entity Department s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Department s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

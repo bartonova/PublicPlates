@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Skapa en ny Country",
+        "createOrEditLabel": "Skapa eller ändra en Country",
+        "search": "Sök efter Country",
+        "notFound": "No Countries found"
+      },
+      "created": "En ny Country är skapad med id {{ param }}",
+      "updated": "En Country är uppdaterad med id  {{ param }}",
+      "deleted": "En Country är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Crear novo Country",
+        "createOrEditLabel": "Crear ou editar Country",
+        "search": "Search for Country",
+        "notFound": "No Countries found"
+      },
+      "created": "Un novo Country foi creado co identificador {{ param }}",
+      "updated": "Un Country foi actualizado co identificador {{ param }}",
+      "deleted": "Un Country foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

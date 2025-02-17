@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Δημιουργήστε ένα νέο Plate",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Plate",
+        "search": "Αναζήτηση για Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Ένα νέο Plate έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Plate έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Plate έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Plate {{ id }};"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

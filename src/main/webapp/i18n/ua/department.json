@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Створити новий Department",
+        "createOrEditLabel": "Створити чи редагувати Department",
+        "search": "Знайти Department",
+        "notFound": "No Departments found"
+      },
+      "created": "Новий Department створений з ідентифікатором {{ param }}",
+      "updated": "Department оновлений з ідентифікатором {{ param }}",
+      "deleted": "Department видалений з ідентифікатором {{ param }}",
+      "delete": {
+        "question": "Ви впевнені, що хочете видалити Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

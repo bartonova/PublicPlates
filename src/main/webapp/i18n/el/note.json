@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Δημιουργήστε ένα νέο Note",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Note",
+        "search": "Αναζήτηση για Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Ένα νέο Note έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Note έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Note έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Note {{ id }};"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

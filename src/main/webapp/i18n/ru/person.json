@@ -1,0 +1,35 @@
+{
+  "platesApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Создать новый Person",
+        "createOrEditLabel": "Создать или отредактировать Person",
+        "search": "Найти Person",
+        "notFound": "No People found"
+      },
+      "created": "Новый Person создан с идентификатором {{ param }}",
+      "updated": "Person обновлен с идентификатором {{ param }}",
+      "deleted": "Person удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Person {{ id }}?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "plate": "Plate",
+      "manager": "Manager",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Thêm mới một Note",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Note",
+        "search": "Tìm Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Một Note mới được tạo với định danh {{ param }}",
+      "updated": "Một Note cập nhật với định danh {{ param }}",
+      "deleted": "Một Note đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

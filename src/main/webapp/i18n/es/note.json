@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Crear nuevo Note",
+        "createOrEditLabel": "Crear o editar Note",
+        "search": "Buscar Note",
+        "notFound": "Ningún Notes encontrado"
+      },
+      "created": "Un nuevo Note ha sido creado con el identificador {{ param }}",
+      "updated": "Un Note ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Note ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

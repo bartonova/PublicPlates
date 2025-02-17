@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Kreiraj novi Note",
+        "createOrEditLabel": "Kreirajte ili izmenite Note",
+        "search": "Potražite Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Kreiran je novi Note pod nazivom {{ param }}",
+      "updated": "Note pod nazivom {{ param }} je ažuriran",
+      "deleted": "Note pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Note pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

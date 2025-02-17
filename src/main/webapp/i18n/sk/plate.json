@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Pridať Plate",
+        "createOrEditLabel": "Pridať alebo upraviť Plate",
+        "search": "Vyhľadať Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Bol vytvorený potomok entity Plate s identifikátorom {{ param }}",
+      "updated": "Potomok entity Plate s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Plate s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

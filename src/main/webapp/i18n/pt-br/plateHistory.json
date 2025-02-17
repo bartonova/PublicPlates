@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Criar novo Plate History",
+        "createOrEditLabel": "Criar ou editar Plate History",
+        "search": "Pesquisar por Plate History",
+        "notFound": "Nenhum Plate History encontrado"
+      },
+      "created": "Um novo Plate History foi criado com o identificador {{ param }}",
+      "updated": "Um Plate History foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Plate History foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

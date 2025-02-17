@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "plateHistory": {
+      "home": {
+        "title": "Plate Histories",
+        "createLabel": "Создать новый Plate History",
+        "createOrEditLabel": "Создать или отредактировать Plate History",
+        "search": "Найти Plate History",
+        "notFound": "No Plate Histories found"
+      },
+      "created": "Новый Plate History создан с идентификатором {{ param }}",
+      "updated": "Plate History обновлен с идентификатором {{ param }}",
+      "deleted": "Plate History удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Plate History {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate History"
+      },
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "plate": "Plate",
+      "department": "Department",
+      "person": "Person"
+    }
+  }
+}

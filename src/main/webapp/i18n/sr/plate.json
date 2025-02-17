@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Kreiraj novi Plate",
+        "createOrEditLabel": "Kreirajte ili izmenite Plate",
+        "search": "Potražite Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Kreiran je novi Plate pod nazivom {{ param }}",
+      "updated": "Plate pod nazivom {{ param }} je ažuriran",
+      "deleted": "Plate pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Plate pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

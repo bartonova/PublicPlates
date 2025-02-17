@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Стварыць новы Note",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Note",
+        "search": "Знайсці Note",
+        "notFound": "No Notes found"
+      },
+      "created": "Новы Note створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Note абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Note выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

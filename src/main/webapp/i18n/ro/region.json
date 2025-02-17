@@ -1,0 +1,23 @@
+{
+  "platesApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "createLabel": "Creeare o nouă entitate Region",
+        "createOrEditLabel": "Creeare sau editare Region",
+        "search": "Căutare după Region",
+        "notFound": "No Regions found"
+      },
+      "created": "A fost creată o nouă entitate Region cu identificatorul {{ param }}",
+      "updated": "Region cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Region cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "regionName": "Region Name"
+    }
+  }
+}

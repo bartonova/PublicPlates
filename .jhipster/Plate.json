@@ -1,0 +1,37 @@
+{
+  "name": "Plate",
+  "fields": [
+    {
+      "fieldName": "plateTitle",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "many-to-many",
+      "otherEntityName": "note",
+      "otherEntityRelationshipName": "plate",
+      "relationshipName": "note",
+      "otherEntityField": "title",
+      "ownerSide": true
+    },
+    {
+      "relationshipType": "many-to-one",
+      "otherEntityName": "person",
+      "otherEntityRelationshipName": "plate",
+      "relationshipName": "person",
+      "otherEntityField": "id"
+    }
+  ],
+  "changelogDate": "20201225142030",
+  "entityTableName": "plate",
+  "dto": "no",
+  "pagination": "pagination",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}

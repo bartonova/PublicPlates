@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Luo Plate",
+        "createOrEditLabel": "Luo tai muokkaa Plate",
+        "search": "Etsi Plate",
+        "notFound": "Plate ei löytynyt"
+      },
+      "created": "Uusi Plate on luotu, id: {{ param }}",
+      "updated": "Plate on päivitetty, id: {{ param }}",
+      "deleted": "Plate on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

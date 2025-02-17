@@ -1,0 +1,24 @@
+{
+  "platesApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "createLabel": "Egy új Country létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Countryt",
+        "search": "Country keresése",
+        "notFound": "No Countries found"
+      },
+      "created": "Egy új Country lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Country módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Country törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Countryt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "countryName": "Country Name",
+      "region": "Region"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "note": {
+      "home": {
+        "title": "Notes",
+        "createLabel": "Luo Note",
+        "createOrEditLabel": "Luo tai muokkaa Note",
+        "search": "Etsi Note",
+        "notFound": "Note ei löytynyt"
+      },
+      "created": "Uusi Note on luotu, id: {{ param }}",
+      "updated": "Note on päivitetty, id: {{ param }}",
+      "deleted": "Note on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Note {{ id }}?"
+      },
+      "detail": {
+        "title": "Note"
+      },
+      "title": "Title",
+      "description": "Description",
+      "plate": "Plate"
+    }
+  }
+}

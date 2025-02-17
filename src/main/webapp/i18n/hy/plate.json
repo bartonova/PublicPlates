@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "plate": {
+      "home": {
+        "title": "Plates",
+        "createLabel": "Ստեղծել նոր Plate",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Plate",
+        "search": "Գտնել Plate",
+        "notFound": "No Plates found"
+      },
+      "created": "Նոր Plate ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Plate թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Plate հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Plate {{ id }}?"
+      },
+      "detail": {
+        "title": "Plate"
+      },
+      "plateTitle": "Plate Title",
+      "note": "Note",
+      "person": "Person"
+    }
+  }
+}

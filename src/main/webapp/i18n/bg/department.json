@@ -1,0 +1,25 @@
+{
+  "platesApp": {
+    "department": {
+      "home": {
+        "title": "Departments",
+        "createLabel": "Създайте нов Department",
+        "createOrEditLabel": "Създайте или редактирайте Department",
+        "search": "Търси Department",
+        "notFound": "Departments не са намерени"
+      },
+      "created": "Създаден е нов Department с идентификатор {{ param }}",
+      "updated": "Department с идентификатор {{ param }} e oбновен",
+      "deleted": "Department с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Department {{ id }}?"
+      },
+      "detail": {
+        "title": "Department"
+      },
+      "departmentName": "Department Name",
+      "location": "Location",
+      "person": "Person"
+    }
+  }
+}

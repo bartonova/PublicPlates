@@ -1,0 +1,27 @@
+{
+  "platesApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "createLabel": "Creeare o nouă entitate Location",
+        "createOrEditLabel": "Creeare sau editare Location",
+        "search": "Căutare după Location",
+        "notFound": "No Locations found"
+      },
+      "created": "A fost creată o nouă entitate Location cu identificatorul {{ param }}",
+      "updated": "Location cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Location cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "streetAddress": "Street Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "country": "Country"
+    }
+  }
+}
